@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    /* outline: 1px solid red; */
+}
+
+.dis-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.just-around {
+    justify-content: space-around;
+}
+
+.just-between {
+    justify-content: space-between;
+}
+
+.just-even {
+    justify-content: space-evenly;
+}
+
+.flex-container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.card-info {
+    background-color: aliceblue;
+    width: 100%;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    font-size: 1.3rem;
+    overflow: hidden;
+}
+
+.card-top {
+    background-color: yellow;
+    height: 125px;
+    margin-bottom: 65px;
+}
+
+.card-main {
+    padding: 20px;
+}
+
+h1, h2, h3, p {
+    margin: 20px 0px;
+}
+
+.user-circle {
+    background-color: aliceblue;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.map-marker {
+    height: 25px;
+}
+
+a {
+    color: dodgerblue;
+}
