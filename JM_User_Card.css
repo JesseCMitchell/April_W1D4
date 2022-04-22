@@ -5,7 +5,7 @@
     /* outline: 1px solid red; */
 }
 
-.dis-flex {
+/* .dis-flex {
     display: flex;
 }
 
@@ -23,7 +23,7 @@
 
 .just-even {
     justify-content: space-evenly;
-}
+} */
 
 .flex-container {
     width: 960px;
