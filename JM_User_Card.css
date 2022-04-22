@@ -67,6 +67,10 @@ h1, h2, h3, p {
     height: 25px;
 }
 
+.gear {
+    height: 25px;
+    padding: 5px;
+}
 a {
     color: dodgerblue;
 }
